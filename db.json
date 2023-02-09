@@ -424,7 +424,28 @@
     },
     {
       "id": 8,
-      "name": "Refrigerante",
+      "name": "Coca Cola",
+      "price": 500,
+      "oldPrice": 1000,
+      "img": "https://postimg.cc/vDCPyW7K"
+    },
+    {
+      "id": 9,
+      "name": "Fanta",
+      "price": 500,
+      "oldPrice": 1000,
+      "img": "https://postimg.cc/dDZB5hMj"
+    },
+    {
+      "id": 10,
+      "name": "Sumol",
+      "price": 500,
+      "oldPrice": 1000,
+      "img": "https://postimg.cc/RJnzgKKH"
+    },
+    {
+      "id": 11,
+      "name": "Pepsi",
       "price": 500,
       "oldPrice": 1000,
       "img": "https://postimg.cc/06tMs0SK"
