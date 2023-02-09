@@ -1,0 +1,380 @@
+{
+    "user": [
+      {
+        "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+        "name": "Fábio Baziota",
+        "phone": 930125546
+      },
+      {
+        "id": "6ed410a5-037a-47bc-8bfc-f08be3ecad25",
+        "name": "Lucas Luco",
+        "phone": "923445566"
+      },
+      {
+        "id": "48ad8c08-67ab-4d9e-b9f6-87de89d61038",
+        "name": "Miguel Neto",
+        "phone": "945677676"
+      },
+      {
+        "id": "896140d8-1277-4ead-8723-3ce21d9a46f8",
+        "name": "Maria da Silva",
+        "phone": "934657876"
+      },
+      {
+        "id": "ae88d68b-961f-4f19-a720-8121f2c4b9e1",
+        "name": "Ana Maria",
+        "phone": "945656576"
+      }
+    ],
+    "movies": [
+      {
+        "id": 1,
+        "title": "Avatar: O caminho da água",
+        "actors": ["Lauren Sam Worthington", "Zoe Saldanã", "KAte Winslet"],
+        "director": "James Cameron",
+        "storyline": "Jake Sully vive com sua nova família formada na lua extrassolar Pandora. Uma vez que uma ameaça familiar retorna para terminar o que foi iniciado anteriormente, Jake deve trabalhar com Neytiri e o exército da raça Na'vi para proteger sua casa.",
+        "genre": ["Ação", "Aventura", "Fantasia", "Ficção científica"],
+        "certificate": "M/12",
+        "releaseDate": "Dezembro 15, 2022",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "3 horas 12 minutos",
+        "img": "https://i.ibb.co/28bMbkC/avatar.jpg",
+        "trailer": [
+          "https://www.youtube.com/watch?v=B4U8CaZoeG4",
+          "https://www.youtube.com/watch?v=V-0GkangoHM"
+        ],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 2,
+        "title": "Megan",
+        "actors": [
+          "Allison Williams",
+          "Violet McGraw",
+          "Amie Donald",
+          "Amie Donald",
+          "Ronny Chieng"
+        ],
+        "director": "Gerard Johnstone",
+        "storyline": "Ela é mais do que um brinquedo. Ela faz parte da família. Das mentes mais prolíficas do horror - James Wan, o realizador por detrás das franquias Saw, Insidious e The Conjuring, e Blumhouse, o produtor dos filmes Halloween, The Black Phone e The Invisible Man – têm agora uma nova cara de terror. M3GAN é uma complexa inteligência artificial, uma boneca com vida que está programada para ser a companhia de uma criança e a maior aliada dos pais. Concebida pela brilhante robótica Gemma (Get Out's Allison Williams), M3GAN pode ouvir, observar e aprender à medida que se torna amiga e professora, companheira de brincadeiras e protetora, para a criança a quem está “emocionalmente” ligada. Quando Gemma se torna subitamente a tutora da sua sobrinha órfã de 8 anos, Cady (Violet McGraw, The Haunting of Hill House), Gemma está insegura e pouco preparada para ser mãe. Por causa de pressão no trabalho, Gemma decide juntar o seu protótipo M3GAN com Cady, numa tentativa de resolver os seus problemas - uma decisão que terá consequências inimagináveis.",
+        "genre": ["Horror", "Ficção científica", "Thriller"],
+        "certificate": "M/18",
+        "releaseDate": "Janeiro 12, 2023",
+        "countryOfOrigin": "Estados Unidos, Nova Zelândia",
+        "language": "Inglês",
+        "runtime": "1 hora 42 minutos",
+        "img": "https://i.ibb.co/8969dM6/megan.jpg",
+        "trailer": [
+          "https://www.youtube.com/watch?v=BRb4U99OU80",
+          "https://www.youtube.com/watch?v=OoDHM_A1axc"
+        ],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 3,
+        "title": "O Gato das Botas: O Último Desejo",
+        "actors": ["Antonio Banderas", "Salma Hayek", "Harvey Guillén"],
+        "director": "Joel Crawford",
+        "storyline": "Quando o Gato de Botas descobre que sua paixão pela aventura cobrou seu preço e que ele queimou oito de suas nove vidas, ele inicia uma jornada épica para restaurá-las, encontrando o mítico Último Desejo.",
+        "genre": [
+          "Animação",
+          "Aventura",
+          "Comédia",
+          "Família",
+          "Fantasia",
+          "Mistério",
+          "Romance"
+        ],
+        "certificate": "M/6",
+        "releaseDate": "Dezembro 8, 2022",
+        "countryOfOrigin": "Estados Unidos, Japão",
+        "language": "Inglês, Espanhol",
+        "runtime": "1 hora 42 minutos",
+        "img": "https://i.ibb.co/mJcsTRD/gato-de-botas-2.jpg",
+        "trailer": [
+          "https://www.youtube.com/watch?v=T1bd9qATBoQ",
+          "https://www.youtube.com/watch?v=Ekj6XIUjPg0",
+          "https://www.youtube.com/watch?v=UmcWtpI3GRw"
+        ],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 4,
+        "title": "Adão Negro",
+        "actors": ["Dwayne", "Aldis Hodge", "Pierce Brosnan"],
+        "director": "Jaume Collet-Serra",
+        "storyline": "Despertando após 5.000 anos, Black Adam se torna o protetor implacável do mundo: um anti-vilão para enfrentar Superman e Mulher Maravilha. Agora no século 21, Black Adam deve enfrentar a Justice Society of America e seus heróis: Doctor Fate, Hawkman, Atom Smasher e Cyclone. O destino do mundo está em jogo.",
+        "genre": ["Ação", "Aventura", "Fantasia", "Ficção Científica"],
+        "certificate": "M/12",
+        "releaseDate": "Outubro 20, 2022",
+        "countryOfOrigin": "Estados Unidos, Canada, Nova Zelândia",
+        "language": "Inglês",
+        "runtime": "2 horas 5 minutos",
+        "img": "https://i.ibb.co/QJtQtzs/adao-negro.jpg",
+        "trailer": [
+          "https://www.youtube.com/watch?v=HluMG9tJXHM",
+          "https://www.youtube.com/watch?v=lROrY_3PmQA"
+        ],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 5,
+        "title": "Noite Violenta",
+        "actors": ["David Harbour", "John Leguizamo", "Beverly D'Angelo"],
+        "director": "Tommy Wirkola",
+        "storyline": "Quando uma equipe de mercenários invade um complexo familiar rico na véspera de Natal, levando todos como reféns, a equipe não está preparada para um combatente surpresa: Papai Noel está no local e está prestes a mostrar por que esse Nick não é santo.",
+        "genre": ["Ação", "Comédia", "Crime", "Fantasia"],
+        "certificate": "M/16",
+        "releaseDate": "Dezembro 1, 2022",
+        "countryOfOrigin": "Estados Unidos, Canada",
+        "language": "Inglês",
+        "runtime": "1 hora 52 minutos",
+        "img": "https://i.ibb.co/st5MW2L/noite-feliz.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=hcNjQuMj3pI"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 6,
+        "title": "Terrifier 2 - O Regresso",
+        "actors": ["Lauren LaVera", "Kailey Hyman", "Jenna Kanell"],
+        "director": "Damien Leone",
+        "storyline": "Em Miles County, Art the Clown é misteriosamente revivido no necrotério e mata o legista, no início de sua onda de crimes na noite de Halloween. Os adolescentes Sienna e seu irmão Jonathan são caçados por Art e sua parceira, The Little Pale Girl.",
+        "genre": ["Horror"],
+        "certificate": "M/18",
+        "releaseDate": "Janeiro 19, 2023",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "2 horas 18 minutos",
+        "img": "https://i.ibb.co/4SgWPTf/terrifier-2.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=hXvp1Zztc6E"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 7,
+        "title": "Black Panther: Wakanda para Sempre",
+        "actors": ["Letitia Wright", "Lupita Nyong'o", "Dnai Gurira"],
+        "director": "Ryan Coogler",
+        "storyline": "A rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger o reino de Wakanda das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e abrir um novo caminho para sua nação.",
+        "genre": [
+          "Ação",
+          "Aventura",
+          "Drama",
+          "Fantasia",
+          "Ficção Científica",
+          "Thriller"
+        ],
+        "certificate": "M/12",
+        "releaseDate": "Novembro 10, 2022",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês, Xhosa, Maya, Francês",
+        "runtime": "2 horas 41 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=FR9iLjOubWc"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 8,
+        "title": "A Vida Em Um Ano",
+        "actors": ["Jaden Smith", "Cara Delevingne", "Nia Long"],
+        "director": "Mitja Okorb",
+        "storyline": "Em A Vida em um Ano, ao descobrir que sua namorada (Cara Delevigne) está morrendo, Daryn (Jaden Smith), um jovem de 17 anos, faz tudo o que é possível para oferecer a sua amada a vida inteira deles juntos em apenas um ano.",
+        "genre": [
+          "Romance",
+          "Drama"
+        ],
+        "certificate": "M/12",
+        "releaseDate": "Fevereiro  5, 2021",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês, Espanhol",
+        "runtime": "1 hora 47 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=l_NRguVzZrw"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 9,
+        "title": "O Segredo: Ouse Sonhar",
+        "actors": ["Katie Holmes", "Josh Lucas", "Jerry O'Connell"],
+        "director": "Andy Tennant",
+        "storyline": "Em O Segredo: Ouse Sonhar, uma viúva com três filhos contrata um trabalhador manual para consertar sua casa durante uma grande tempestade. Quando não está fazendo reparos domésticos, ele compartilha sua filosofia de acreditar no poder do universo para entregar o que queremos. O homem a ensina sobre a lei da atração e o quanto é importante crer que os pensamentos positivos têm um grande poder de influenciar diretamente no dia a dia de qualquer pessoa, sendo possível alcançar qualquer objetivo da vida da melhor forma.",
+        "genre": [
+          "Drama"
+        ],
+        "certificate": "M/10",
+        "releaseDate": "Outubro 1, 2020",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês, Espanhol",
+        "runtime": "1 hora 43 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=4559jxacBmY"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      }
+      ,
+      {
+        "id": 10,
+        "title": "A Maldição de Larry: Queres Ser Meu Amigo ?",
+        "actors": ["Azhy Robertson", "Gillian Jacobs", "John Gallagher Jr"],
+        "director": "Jacob Chase",
+        "storyline": "Oliver é um rapaz solitário que se sente diferente de toda a gente. Desesperado para arranjar um amigo, procura consolo e refúgio no telemóvel e no tablet que nunca larga. Quando uma misteriosa criatura utiliza os dispositivos de Oliver contra ele, para conseguir entrar no nosso mundo, os pais de Oliver têm de lutar para salvar o filho do monstro por trás dos ecrãs.",
+        "genre": [
+          "Terror"
+        ],
+        "certificate": "M/14",
+        "releaseDate": "Outubro 29, 2020",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês, Espanhol, Francês",
+        "runtime": "1 hora 43 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=NWT8R6q0CKU"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 11,
+        "title": "Enola Holmes",
+        "actors": ["Millie Bobby Brown", " Henry Cavill", "Helena Bonham Carter"],
+        "director": "Harry Bradbeer",
+        "storyline": "A continuação do filme mostra uma Enola Holmes um pouco mais velha e, agora, lutando para sair da sombra de seu irmão Sherlock Holmes. Nesta nova aventura, a trama acompanha a jovem detetive em seu segundo caso oficial, quando uma garotinha a procura para investigar o desaparecimento de sua irmã mais velha, a jovem operária Sarah Chapman. No entanto, à medida que a investigação se aprofunda, a heroína descobre que o caso não envolve apenas o misterioso sumiço de uma jovem, mas sim, uma enorme rede de conspiração com direito a transações fraudulentas, perseguições e assassinatos.",
+        "genre": [
+          "Aventura"
+        ],
+        "certificate": "M/5",
+        "releaseDate": "Setembro 23, 2020",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "2 horas 3 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=1d0Zf9sXlHk"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 12,
+        "title": "Enola Holmes 2",
+        "actors": ["Millie Bobby Brown", " Henry Cavill", "Helena Bonham Carter"],
+        "director": "Harry Bradbeer",
+        "storyline": "A continuação do filme mostra uma Enola Holmes um pouco mais velha e, agora, lutando para sair da sombra de seu irmão Sherlock Holmes. Nesta nova aventura, a trama acompanha a jovem detetive em seu segundo caso oficial, quando uma garotinha a procura para investigar o desaparecimento de sua irmã mais velha, a jovem operária Sarah Chapman. No entanto, à medida que a investigação se aprofunda, a heroína descobre que o caso não envolve apenas o misterioso sumiço de uma jovem, mas sim, uma enorme rede de conspiração com direito a transações fraudulentas, perseguições e assassinatos.",
+        "genre": [
+          "Aventura"
+        ],
+        "certificate": "M/5",
+        "releaseDate": "Novembro 4, 2022",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "2 horas 5 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=tFz3OGehj0U"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 13,
+        "title": "American Pie Presents: Girls' Rules",
+        "actors": ["Blayne Weaver", " David H. Steinberg"],
+        "director": "Mike Elliott",
+        "storyline": "É o último ano! Annie, Kayla, Michelle e Stephanie decidem finalmente aproveitar seu poder feminino e se unir para conseguir o que desejam. Os meninos não saberão o que os atingiu quando essas namoradas atrevidas estão dando as cartas. Festas selvagens, aventuras sensuais e um Stifler trazem o calor nesta nova fatia quente de American Pie!",
+        "genre": [
+          "Comédia"
+        ],
+        "certificate": "M/16",
+        "releaseDate": "Outubro 6, 2020",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "1 hora 35 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": [
+          "https://www.youtube.com/watch?v=fGjfQjIKWkw",
+          "https://www.youtube.com/watch?v=KdP-0MJ6oEE"
+        ],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      },
+      {
+        "id": 14,
+        "title": "John Wick: Capítulo 4",
+        "actors": ["Keanu Reeves", " Donnie Yen", "Bill Skarsgard"],
+        "director": "Chad Stahelski",
+        "storyline": "Com o preço por sua cabeça cada vez maior, o lendário assassino de aluguel John Wick leva sua luta contra o High Table global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, do Japão a Berlim.",
+        "genre": [
+          "Ação"
+        ],
+        "certificate": "M/16",
+        "releaseDate": "Março 24, 2023",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "1 hora 35 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=qEVUtrk8_B4"],
+        "state": "Brevemente",
+        "bgHero": ""
+      },
+      {
+        "id": 15,
+        "title": "Velozes & Furiosos 10",
+        "actors": ["Vin Diesel", " Jason Momoa", "Charlize Theron"],
+        "director": "Louis Leterrier",
+        "storyline": "Décimo filme da série Velozes & Furiosos e último da nova trilogia (Velozes 8, 9 e 10). O longa traz Dominic Toretto (Vin Diesel) comandando novamente a equipe de corredores mais conhecida do mundo, em mais uma difícil missão sobre quatro rodas.",
+        "genre": [
+          "Ação"
+        ],
+        "certificate": "M/16",
+        "releaseDate": "Maio 19, 2023",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês",
+        "runtime": "1 hora 35 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=vq_4mn9Q-EQ"],
+        "state": "Brevemente",
+        "bgHero": ""
+      },
+      {
+        "id": 16,
+        "title": "Batem À Porta",
+        "actors": ["Dave Bautista", " Jonathan Groff", "Ben Aldridge", "Rupert Grin"],
+        "director": " M. Night Shyamalan",
+        "storyline": "Durante as férias em uma cabana remota, uma jovem e seus pais são feitos reféns por quatro estranhos armados que exigem que a família faça uma escolha impensável para evitar o apocalipse.",
+        "genre": [
+          "Suspense"
+        ],
+        "certificate": "M/16",
+        "releaseDate": "Fevereiro 3, 2023",
+        "countryOfOrigin": "Estados Unidos",
+        "language": "Inglês, Espanhol, Francês",
+        "runtime": "1 hora 40 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=XHpOY8qdQ4g"],
+        "state": "Brevemente",
+        "bgHero": ""
+      },
+      {
+        "id": 17,
+        "title": "Plane: Alerta Máximo",
+        "actors": ["Charles Cumming", "J.P. Davis"],
+        "director": "Jean-François Richet",
+        "storyline": "Em Alerta Máximo, o piloto da Trailblazer Airlines, Brodie Torrance (Gerard Butler), está fazeno um voo de Singapura para Honolulu quando precisa salvar seus passageiros de um relâmpago fazendo um pouso arriscado em uma ilha devastada pela guerra – e descobre que sobreviver ao pouso era apenas o começo. Quando a maioria dos passageiros são feitos de reféns por rebeldes perigosos, a única pessoa com quem Torrance pode contar para ajudar é Louis Gaspare (Mike Colter), um acusado de assassinato que estava sendo transportado pelo FBI. Para resgatar os passageiros, Torrance precisará da ajuda de Gaspare e descobrirá que há mais em Gaspare do que aparenta.",
+        "genre": [
+          "Ação"
+        ],
+        "certificate": "M/14",
+        "releaseDate": "Janeiro 26, 2023",
+        "countryOfOrigin": "Estados Unidos, França",
+        "language": "Inglês, Espanhol, Francês",
+        "runtime": "1 hora 48 minutos",
+        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "trailer": ["https://www.youtube.com/watch?v=ExxVKOfHXoo"],
+        "state": "Em Cartaz",
+        "bgHero": ""
+      }
+    ]
+  }
+  
