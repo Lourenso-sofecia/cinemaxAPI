@@ -39,13 +39,13 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "3 horas 12 minutos",
-        "img": "https://i.ibb.co/28bMbkC/avatar.jpg",
+        "img": "https://i.postimg.cc/Pf7qjm6D/avatar.jpg",
         "trailer": [
           "https://www.youtube.com/watch?v=B4U8CaZoeG4",
           "https://www.youtube.com/watch?v=V-0GkangoHM"
         ],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/DwM6Qp5Z/avatar-bg-Hero.jpg"
       },
       {
         "id": 2,
@@ -65,13 +65,13 @@
         "countryOfOrigin": "Estados Unidos, Nova Zelândia",
         "language": "Inglês",
         "runtime": "1 hora 42 minutos",
-        "img": "https://i.ibb.co/8969dM6/megan.jpg",
+        "img": "https://i.postimg.cc/W4J9x4rP/megan.jpg",
         "trailer": [
           "https://www.youtube.com/watch?v=BRb4U99OU80",
           "https://www.youtube.com/watch?v=OoDHM_A1axc"
         ],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/W3kS9mtv/megan-bg-Hero.jpg"
       },
       {
         "id": 3,
@@ -93,14 +93,14 @@
         "countryOfOrigin": "Estados Unidos, Japão",
         "language": "Inglês, Espanhol",
         "runtime": "1 hora 42 minutos",
-        "img": "https://i.ibb.co/mJcsTRD/gato-de-botas-2.jpg",
+        "img": "https://i.postimg.cc/XX6bTP1V/gato-das-botas-2.jpg",
         "trailer": [
           "https://www.youtube.com/watch?v=T1bd9qATBoQ",
           "https://www.youtube.com/watch?v=Ekj6XIUjPg0",
           "https://www.youtube.com/watch?v=UmcWtpI3GRw"
         ],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/FRcmDmGP/gato-das-botas-2-bg-Hero.jpg"
       },
       {
         "id": 4,
@@ -114,13 +114,13 @@
         "countryOfOrigin": "Estados Unidos, Canada, Nova Zelândia",
         "language": "Inglês",
         "runtime": "2 horas 5 minutos",
-        "img": "https://i.ibb.co/QJtQtzs/adao-negro.jpg",
+        "img": "https://i.postimg.cc/Gh77mmW6/adao-negro.jpg",
         "trailer": [
           "https://www.youtube.com/watch?v=HluMG9tJXHM",
           "https://www.youtube.com/watch?v=lROrY_3PmQA"
         ],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/KYrt49K4/adao-negro-bg-Hero.webp"
       },
       {
         "id": 5,
@@ -134,10 +134,10 @@
         "countryOfOrigin": "Estados Unidos, Canada",
         "language": "Inglês",
         "runtime": "1 hora 52 minutos",
-        "img": "https://i.ibb.co/st5MW2L/noite-feliz.jpg",
+        "img": "https://i.postimg.cc/qqCR6RmQ/noite-violenta.jpg",
         "trailer": ["https://www.youtube.com/watch?v=hcNjQuMj3pI"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/zBHbK0vn/noite-violenta-bg-Hero.jpg"
       },
       {
         "id": 6,
@@ -151,10 +151,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "2 horas 18 minutos",
-        "img": "https://i.ibb.co/4SgWPTf/terrifier-2.jpg",
+        "img": "https://i.postimg.cc/rmSzn799/terrifier-2.jpg",
         "trailer": ["https://www.youtube.com/watch?v=hXvp1Zztc6E"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/DyqkWnw6/terrifier-2-bg-Hero.jpg"
       },
       {
         "id": 7,
@@ -175,10 +175,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês, Xhosa, Maya, Francês",
         "runtime": "2 horas 41 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/3xTyp8Cx/black-panter-wakanda-forever.webp",
         "trailer": ["https://www.youtube.com/watch?v=FR9iLjOubWc"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/Bb53G08m/black-panter-wakanda-forever-bg-Hero.jpg"
       },
       {
         "id": 8,
@@ -195,10 +195,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês, Espanhol",
         "runtime": "1 hora 47 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/4N8MHyTz/a-vida-em-um-ano.jpg",
         "trailer": ["https://www.youtube.com/watch?v=l_NRguVzZrw"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/9FzbSBv7/A-vida-em-um-ano-bg-Hero.jpg"
       },
       {
         "id": 9,
@@ -214,10 +214,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês, Espanhol",
         "runtime": "1 hora 43 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/sgx25MGy/o-segredo.jpg",
         "trailer": ["https://www.youtube.com/watch?v=4559jxacBmY"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/wTvzGSqQ/o-segredo-bg-Hero.jpg"
       }
       ,
       {
@@ -234,10 +234,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês, Espanhol, Francês",
         "runtime": "1 hora 43 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/rm0n4NMW/a-maldicao-de-larry.jpg",
         "trailer": ["https://www.youtube.com/watch?v=NWT8R6q0CKU"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/KYJSfN6H/a-maldicao-de-larry-bg-Hero.jpg"
       },
       {
         "id": 11,
@@ -253,10 +253,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "2 horas 3 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/j5nWrL4t/enola-holmes.png",
         "trailer": ["https://www.youtube.com/watch?v=1d0Zf9sXlHk"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/1RpxYy1F/enola-holmes-bg-Hero.webp"
       },
       {
         "id": 12,
@@ -272,10 +272,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "2 horas 5 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/zG40rRnG/enola-holmes-2.jpg",
         "trailer": ["https://www.youtube.com/watch?v=tFz3OGehj0U"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/KjVgMtcK/enola-holmes-2-bg-Hero.jpg"
       },
       {
         "id": 13,
@@ -291,13 +291,13 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "1 hora 35 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/FRp6NHrC/american-pie-presents.jpg",
         "trailer": [
           "https://www.youtube.com/watch?v=fGjfQjIKWkw",
           "https://www.youtube.com/watch?v=KdP-0MJ6oEE"
         ],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/yNVXBXDB/american-pie-presents-bg-Hero.jpg"
       },
       {
         "id": 14,
@@ -313,10 +313,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "1 hora 35 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/L4Ns0kpL/john-wick-capitulo-4.jpg",
         "trailer": ["https://www.youtube.com/watch?v=qEVUtrk8_B4"],
         "state": "Brevemente",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/tJyVt9Fb/john-wick-capitulo-4-bg-Hero.jpg"
       },
       {
         "id": 15,
@@ -332,10 +332,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês",
         "runtime": "1 hora 35 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/1tdjfYFD/velozes-e-furiosos-10.webp",
         "trailer": ["https://www.youtube.com/watch?v=vq_4mn9Q-EQ"],
         "state": "Brevemente",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/0NMth0FQ/velozes-e-furiosos-10-bg-Hero.webp"
       },
       {
         "id": 16,
@@ -351,10 +351,10 @@
         "countryOfOrigin": "Estados Unidos",
         "language": "Inglês, Espanhol, Francês",
         "runtime": "1 hora 40 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/k5q4pTBN/batem-a-porta.jpg",
         "trailer": ["https://www.youtube.com/watch?v=XHpOY8qdQ4g"],
         "state": "Brevemente",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/GhP9x0p3/batem-a-porta-bg-Hero.jpg"
       },
       {
         "id": 17,
@@ -370,10 +370,10 @@
         "countryOfOrigin": "Estados Unidos, França",
         "language": "Inglês, Espanhol, Francês",
         "runtime": "1 hora 48 minutos",
-        "img": "https://i.ibb.co/yVfs2Lt/black-panter-wakanda-forever.jpg",
+        "img": "https://i.postimg.cc/d31nmR2w/plane.jpg",
         "trailer": ["https://www.youtube.com/watch?v=ExxVKOfHXoo"],
         "state": "Em Cartaz",
-        "bgHero": ""
+        "bgHero": "https://i.postimg.cc/5ygdjmxJ/plane-bg-Hero.jpg"
       }
     ]
   }
